@@ -1,0 +1,20 @@
+Gonna use an API (from api ninjas website) to get the random jokes inside our project
+
+Will use try catch block.....so that it will catch the error whenever there is no nternet connection is there
+
+Understand how to use API
+Try and Catch block
+Fetch data from API
+How to use an API by passing an option for the method & headers..
+Learnt how to use loading effect
+
+
+
+
+
+fetch():
+The fetch() method in JavaScript is used to request data from a server. 
+The request can be of any type of API that returns the data in JSON or XML. 
+The fetch() method requires one parameter, the URL to request, and returns a promise.
+
+asynchronous, await, promises:
